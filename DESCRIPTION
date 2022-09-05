@@ -1,0 +1,11 @@
+Package: Andromeda
+Type: Package
+Title: Some functions to help begginers data analysts
+Version: 0.1.0
+Author: Bruno Felipe Santos de Oliveira
+Maintainer: Bruno Felipe Santos de Oliveira <filipe8395@hotmail.com>
+Description: Some functions to help begginers data analysts
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
